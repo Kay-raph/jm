@@ -35,39 +35,3 @@ html{
     height: auto;
 }
 
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-    .nav{
-        background-color: rgba(0, 0, 0, 0.9);
-        width: 100%;
-        padding: 10px;
-        left: 0;
-    }
-    .nav a{
-        font-size: small;
-    }
-  }
-  
-  /* Small devices (portrait tablets and large phones, 600px and up) */
-  @media only screen and (min-width: 600px) {
-    .nav a{
-        font-size: small;
-    }
-  }
-  
-  /* Medium devices (landscape tablets, 768px and up) */
-  @media only screen and (min-width: 768px) {
-    .nav a{
-        font-size: medium;
-    }
-  } 
-  
-  /* Large devices (laptops/desktops, 992px and up) */
-  @media only screen and (min-width: 992px) {
-    
-  } 
-  
-  /* Extra large devices (large laptops and desktops, 1200px and up) */
-  @media only screen and (min-width: 1200px) {
-    
-  }
