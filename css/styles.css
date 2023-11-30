@@ -1,0 +1,32 @@
+body,
+html{
+    background-color: black;
+}
+.container{
+    margin: 30px;
+}
+
+.nav a:hover{
+    color: goldenrod;
+    text-decoration: none;
+}
+.container img{
+    width: 100%;
+    height: auto;
+}
+.navbar .navbar-brand {
+    font-size: 30px;
+  }
+  .navbar .nav-item {
+    padding: 10px 20px;
+  }
+  .navbar .nav-link {
+    font-size: 20px;
+    margin-left: 10px;
+  }
+  .fa-bars {
+    color: goldenrod;
+    font-size: 30px;
+  }
+  
+
